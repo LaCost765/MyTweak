@@ -1,0 +1,14 @@
+Package: com.egorbaranov.mytweak
+Name: MyTweak
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: MyTweak Description
+Maintainer: egor.baranov
+Author: Egor Baranov
+Section: Themes
+Depends: None
+Filename:  debs/сщл.egorbaranov.mytweak_iphoneos-arm64_1.0.deb
+Size: 59498
+MD5sum: c0ff5ba35b12ba28c49b8a89e0ba67f0
+SHA1: 23c22e00e7d1f767b52431f35c677e1171f57142
+SHA256: c0e3b9f6f5aa0b86945e39361850738f656b5f7036c969179e9c9acecb077749
